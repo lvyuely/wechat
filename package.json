@@ -1,0 +1,29 @@
+{
+  "name": "wechat",
+  "version": "1.0.0",
+  "description": "Node微信接入基础库",
+  "main": "index.js",
+  "scripts": {
+    "test": "test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyuely/wechat.git"
+  },
+  "keywords": [
+    "node",
+    "wechat"
+  ],
+  "author": "吕悦",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvyuely/wechat/issues"
+  },
+  "homepage": "https://github.com/lvyuely/wechat#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "lodash": "^4.6.1",
+    "util": "^0.10.3",
+    "xml2js": "^0.4.16"
+  }
+}
